@@ -1,0 +1,9 @@
+@font-face {
+  font-family: handle;
+  src: url(../public/handlee-regular-webfont.woff);
+}
+
+* {
+  background-color: rgba(45, 45, 45, 1);
+  font-family: handlee, sans-serif;
+}
